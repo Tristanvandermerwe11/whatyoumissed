@@ -1,0 +1,14 @@
+C:\Users\emeris\source\repos\OwnDisposableObject\OwnDisposableObject\bin\Debug\net10.0\OwnDisposableObject.exe
+C:\Users\emeris\source\repos\OwnDisposableObject\OwnDisposableObject\bin\Debug\net10.0\OwnDisposableObject.deps.json
+C:\Users\emeris\source\repos\OwnDisposableObject\OwnDisposableObject\bin\Debug\net10.0\OwnDisposableObject.runtimeconfig.json
+C:\Users\emeris\source\repos\OwnDisposableObject\OwnDisposableObject\bin\Debug\net10.0\OwnDisposableObject.dll
+C:\Users\emeris\source\repos\OwnDisposableObject\OwnDisposableObject\bin\Debug\net10.0\OwnDisposableObject.pdb
+C:\Users\emeris\source\repos\OwnDisposableObject\OwnDisposableObject\obj\Debug\net10.0\OwnDisposableObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emeris\source\repos\OwnDisposableObject\OwnDisposableObject\obj\Debug\net10.0\OwnDisposableObject.AssemblyInfoInputs.cache
+C:\Users\emeris\source\repos\OwnDisposableObject\OwnDisposableObject\obj\Debug\net10.0\OwnDisposableObject.AssemblyInfo.cs
+C:\Users\emeris\source\repos\OwnDisposableObject\OwnDisposableObject\obj\Debug\net10.0\OwnDisposableObject.csproj.CoreCompileInputs.cache
+C:\Users\emeris\source\repos\OwnDisposableObject\OwnDisposableObject\obj\Debug\net10.0\OwnDisposableObject.dll
+C:\Users\emeris\source\repos\OwnDisposableObject\OwnDisposableObject\obj\Debug\net10.0\refint\OwnDisposableObject.dll
+C:\Users\emeris\source\repos\OwnDisposableObject\OwnDisposableObject\obj\Debug\net10.0\OwnDisposableObject.pdb
+C:\Users\emeris\source\repos\OwnDisposableObject\OwnDisposableObject\obj\Debug\net10.0\OwnDisposableObject.genruntimeconfig.cache
+C:\Users\emeris\source\repos\OwnDisposableObject\OwnDisposableObject\obj\Debug\net10.0\ref\OwnDisposableObject.dll

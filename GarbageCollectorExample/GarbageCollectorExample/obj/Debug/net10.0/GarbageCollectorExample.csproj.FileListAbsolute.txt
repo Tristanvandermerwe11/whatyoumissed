@@ -1,0 +1,14 @@
+C:\Users\emeris\source\repos\GarbageCollectorExample\GarbageCollectorExample\bin\Debug\net10.0\GarbageCollectorExample.exe
+C:\Users\emeris\source\repos\GarbageCollectorExample\GarbageCollectorExample\bin\Debug\net10.0\GarbageCollectorExample.deps.json
+C:\Users\emeris\source\repos\GarbageCollectorExample\GarbageCollectorExample\bin\Debug\net10.0\GarbageCollectorExample.runtimeconfig.json
+C:\Users\emeris\source\repos\GarbageCollectorExample\GarbageCollectorExample\bin\Debug\net10.0\GarbageCollectorExample.dll
+C:\Users\emeris\source\repos\GarbageCollectorExample\GarbageCollectorExample\bin\Debug\net10.0\GarbageCollectorExample.pdb
+C:\Users\emeris\source\repos\GarbageCollectorExample\GarbageCollectorExample\obj\Debug\net10.0\GarbageCollectorExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emeris\source\repos\GarbageCollectorExample\GarbageCollectorExample\obj\Debug\net10.0\GarbageCollectorExample.AssemblyInfoInputs.cache
+C:\Users\emeris\source\repos\GarbageCollectorExample\GarbageCollectorExample\obj\Debug\net10.0\GarbageCollectorExample.AssemblyInfo.cs
+C:\Users\emeris\source\repos\GarbageCollectorExample\GarbageCollectorExample\obj\Debug\net10.0\GarbageCollectorExample.csproj.CoreCompileInputs.cache
+C:\Users\emeris\source\repos\GarbageCollectorExample\GarbageCollectorExample\obj\Debug\net10.0\GarbageCollectorExample.dll
+C:\Users\emeris\source\repos\GarbageCollectorExample\GarbageCollectorExample\obj\Debug\net10.0\refint\GarbageCollectorExample.dll
+C:\Users\emeris\source\repos\GarbageCollectorExample\GarbageCollectorExample\obj\Debug\net10.0\GarbageCollectorExample.pdb
+C:\Users\emeris\source\repos\GarbageCollectorExample\GarbageCollectorExample\obj\Debug\net10.0\GarbageCollectorExample.genruntimeconfig.cache
+C:\Users\emeris\source\repos\GarbageCollectorExample\GarbageCollectorExample\obj\Debug\net10.0\ref\GarbageCollectorExample.dll
