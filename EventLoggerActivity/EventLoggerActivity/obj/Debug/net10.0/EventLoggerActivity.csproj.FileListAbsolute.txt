@@ -1,0 +1,14 @@
+/home/brandon/Downloads/EventLoggerActivity/EventLoggerActivity/bin/Debug/net10.0/EventLoggerActivity
+/home/brandon/Downloads/EventLoggerActivity/EventLoggerActivity/bin/Debug/net10.0/EventLoggerActivity.deps.json
+/home/brandon/Downloads/EventLoggerActivity/EventLoggerActivity/bin/Debug/net10.0/EventLoggerActivity.runtimeconfig.json
+/home/brandon/Downloads/EventLoggerActivity/EventLoggerActivity/bin/Debug/net10.0/EventLoggerActivity.dll
+/home/brandon/Downloads/EventLoggerActivity/EventLoggerActivity/bin/Debug/net10.0/EventLoggerActivity.pdb
+/home/brandon/Downloads/EventLoggerActivity/EventLoggerActivity/obj/Debug/net10.0/EventLoggerActivity.GeneratedMSBuildEditorConfig.editorconfig
+/home/brandon/Downloads/EventLoggerActivity/EventLoggerActivity/obj/Debug/net10.0/EventLoggerActivity.AssemblyInfoInputs.cache
+/home/brandon/Downloads/EventLoggerActivity/EventLoggerActivity/obj/Debug/net10.0/EventLoggerActivity.AssemblyInfo.cs
+/home/brandon/Downloads/EventLoggerActivity/EventLoggerActivity/obj/Debug/net10.0/EventLoggerActivity.csproj.CoreCompileInputs.cache
+/home/brandon/Downloads/EventLoggerActivity/EventLoggerActivity/obj/Debug/net10.0/EventLoggerActivity.dll
+/home/brandon/Downloads/EventLoggerActivity/EventLoggerActivity/obj/Debug/net10.0/refint/EventLoggerActivity.dll
+/home/brandon/Downloads/EventLoggerActivity/EventLoggerActivity/obj/Debug/net10.0/EventLoggerActivity.pdb
+/home/brandon/Downloads/EventLoggerActivity/EventLoggerActivity/obj/Debug/net10.0/EventLoggerActivity.genruntimeconfig.cache
+/home/brandon/Downloads/EventLoggerActivity/EventLoggerActivity/obj/Debug/net10.0/ref/EventLoggerActivity.dll
