@@ -1,0 +1,14 @@
+C:\Users\emeris\source\repos\overloadingOperatiorExample\overloadingOperatiorExample\bin\Debug\net10.0\overloadingOperatiorExample.exe
+C:\Users\emeris\source\repos\overloadingOperatiorExample\overloadingOperatiorExample\bin\Debug\net10.0\overloadingOperatiorExample.deps.json
+C:\Users\emeris\source\repos\overloadingOperatiorExample\overloadingOperatiorExample\bin\Debug\net10.0\overloadingOperatiorExample.runtimeconfig.json
+C:\Users\emeris\source\repos\overloadingOperatiorExample\overloadingOperatiorExample\bin\Debug\net10.0\overloadingOperatiorExample.dll
+C:\Users\emeris\source\repos\overloadingOperatiorExample\overloadingOperatiorExample\bin\Debug\net10.0\overloadingOperatiorExample.pdb
+C:\Users\emeris\source\repos\overloadingOperatiorExample\overloadingOperatiorExample\obj\Debug\net10.0\overloadingOperatiorExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emeris\source\repos\overloadingOperatiorExample\overloadingOperatiorExample\obj\Debug\net10.0\overloadingOperatiorExample.AssemblyInfoInputs.cache
+C:\Users\emeris\source\repos\overloadingOperatiorExample\overloadingOperatiorExample\obj\Debug\net10.0\overloadingOperatiorExample.AssemblyInfo.cs
+C:\Users\emeris\source\repos\overloadingOperatiorExample\overloadingOperatiorExample\obj\Debug\net10.0\overloadingOperatiorExample.csproj.CoreCompileInputs.cache
+C:\Users\emeris\source\repos\overloadingOperatiorExample\overloadingOperatiorExample\obj\Debug\net10.0\overloadingOperatiorExample.dll
+C:\Users\emeris\source\repos\overloadingOperatiorExample\overloadingOperatiorExample\obj\Debug\net10.0\refint\overloadingOperatiorExample.dll
+C:\Users\emeris\source\repos\overloadingOperatiorExample\overloadingOperatiorExample\obj\Debug\net10.0\overloadingOperatiorExample.pdb
+C:\Users\emeris\source\repos\overloadingOperatiorExample\overloadingOperatiorExample\obj\Debug\net10.0\overloadingOperatiorExample.genruntimeconfig.cache
+C:\Users\emeris\source\repos\overloadingOperatiorExample\overloadingOperatiorExample\obj\Debug\net10.0\ref\overloadingOperatiorExample.dll
