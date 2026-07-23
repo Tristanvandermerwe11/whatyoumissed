@@ -22,6 +22,36 @@ public class Function1
     public async Task<HttpResponseData> Run([HttpTrigger(AuthorizationLevel.Anonymous, "get", "post", "put", "delete")] HttpRequestData req)
     {
         _logger.LogInformation("C# HTTP trigger function processed a request.");
-        return new OkObjectResult("Welcome to Azure Functions!");
+
+        var response = req.CreateResponse(System.Net.HttpStatusCode.OK);
+
+        response.Headers.Add("Content-Type", "application/json");
+
+        //we need to figure out what the client/sender want us to do
+        var method = req.Method;
+
+        switch (method)
+        {
+            //GET USER WANTS TO RETRIEVE INFO
+            case "GET":
+                //does user want something specific?
+                var requestID = System.Web.HttpUtility.ParseQueryString(req.Url.Query)["id"];
+                var isRequesting = string.IsNullOrEmpty(requestID);
+
+
+                break;
+            //POST USER WANTS TO ADD INFO
+            case "POST":
+                break;
+            //PUT USER WANTS TO REPLACE INFO
+            case "PUT":
+                break;
+            //DELETE USER WANTS TO DELETE INFO
+            case "DELETE":
+                break;
+            //WE DONT CARE TRY AGAIN
+            default:
+                break;
+        }
     }
 }
