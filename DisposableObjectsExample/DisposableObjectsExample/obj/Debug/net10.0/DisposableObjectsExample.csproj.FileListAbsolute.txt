@@ -1,0 +1,14 @@
+C:\Users\emeris\source\repos\DisposableObjectsExample\DisposableObjectsExample\bin\Debug\net10.0\DisposableObjectsExample.exe
+C:\Users\emeris\source\repos\DisposableObjectsExample\DisposableObjectsExample\bin\Debug\net10.0\DisposableObjectsExample.deps.json
+C:\Users\emeris\source\repos\DisposableObjectsExample\DisposableObjectsExample\bin\Debug\net10.0\DisposableObjectsExample.runtimeconfig.json
+C:\Users\emeris\source\repos\DisposableObjectsExample\DisposableObjectsExample\bin\Debug\net10.0\DisposableObjectsExample.dll
+C:\Users\emeris\source\repos\DisposableObjectsExample\DisposableObjectsExample\bin\Debug\net10.0\DisposableObjectsExample.pdb
+C:\Users\emeris\source\repos\DisposableObjectsExample\DisposableObjectsExample\obj\Debug\net10.0\DisposableObjectsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emeris\source\repos\DisposableObjectsExample\DisposableObjectsExample\obj\Debug\net10.0\DisposableObjectsExample.AssemblyInfoInputs.cache
+C:\Users\emeris\source\repos\DisposableObjectsExample\DisposableObjectsExample\obj\Debug\net10.0\DisposableObjectsExample.AssemblyInfo.cs
+C:\Users\emeris\source\repos\DisposableObjectsExample\DisposableObjectsExample\obj\Debug\net10.0\DisposableObjectsExample.csproj.CoreCompileInputs.cache
+C:\Users\emeris\source\repos\DisposableObjectsExample\DisposableObjectsExample\obj\Debug\net10.0\DisposableObjectsExample.dll
+C:\Users\emeris\source\repos\DisposableObjectsExample\DisposableObjectsExample\obj\Debug\net10.0\refint\DisposableObjectsExample.dll
+C:\Users\emeris\source\repos\DisposableObjectsExample\DisposableObjectsExample\obj\Debug\net10.0\DisposableObjectsExample.pdb
+C:\Users\emeris\source\repos\DisposableObjectsExample\DisposableObjectsExample\obj\Debug\net10.0\DisposableObjectsExample.genruntimeconfig.cache
+C:\Users\emeris\source\repos\DisposableObjectsExample\DisposableObjectsExample\obj\Debug\net10.0\ref\DisposableObjectsExample.dll
