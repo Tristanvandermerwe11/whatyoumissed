@@ -1,0 +1,14 @@
+C:\Users\emeris\source\repos\hospitalManagementExample\bin\Debug\net10.0\hospitalManagementExample.exe
+C:\Users\emeris\source\repos\hospitalManagementExample\bin\Debug\net10.0\hospitalManagementExample.deps.json
+C:\Users\emeris\source\repos\hospitalManagementExample\bin\Debug\net10.0\hospitalManagementExample.runtimeconfig.json
+C:\Users\emeris\source\repos\hospitalManagementExample\bin\Debug\net10.0\hospitalManagementExample.dll
+C:\Users\emeris\source\repos\hospitalManagementExample\bin\Debug\net10.0\hospitalManagementExample.pdb
+C:\Users\emeris\source\repos\hospitalManagementExample\obj\Debug\net10.0\hospitalManagementExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emeris\source\repos\hospitalManagementExample\obj\Debug\net10.0\hospitalManagementExample.AssemblyInfoInputs.cache
+C:\Users\emeris\source\repos\hospitalManagementExample\obj\Debug\net10.0\hospitalManagementExample.AssemblyInfo.cs
+C:\Users\emeris\source\repos\hospitalManagementExample\obj\Debug\net10.0\hospitalManagementExample.csproj.CoreCompileInputs.cache
+C:\Users\emeris\source\repos\hospitalManagementExample\obj\Debug\net10.0\hospitalManagementExample.dll
+C:\Users\emeris\source\repos\hospitalManagementExample\obj\Debug\net10.0\refint\hospitalManagementExample.dll
+C:\Users\emeris\source\repos\hospitalManagementExample\obj\Debug\net10.0\hospitalManagementExample.pdb
+C:\Users\emeris\source\repos\hospitalManagementExample\obj\Debug\net10.0\hospitalManagementExample.genruntimeconfig.cache
+C:\Users\emeris\source\repos\hospitalManagementExample\obj\Debug\net10.0\ref\hospitalManagementExample.dll
