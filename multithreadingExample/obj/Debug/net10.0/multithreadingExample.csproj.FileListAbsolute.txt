@@ -1,0 +1,14 @@
+C:\Users\emeris\source\repos\multithreadingExample\bin\Debug\net10.0\multithreadingExample.exe
+C:\Users\emeris\source\repos\multithreadingExample\bin\Debug\net10.0\multithreadingExample.deps.json
+C:\Users\emeris\source\repos\multithreadingExample\bin\Debug\net10.0\multithreadingExample.runtimeconfig.json
+C:\Users\emeris\source\repos\multithreadingExample\bin\Debug\net10.0\multithreadingExample.dll
+C:\Users\emeris\source\repos\multithreadingExample\bin\Debug\net10.0\multithreadingExample.pdb
+C:\Users\emeris\source\repos\multithreadingExample\obj\Debug\net10.0\multithreadingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emeris\source\repos\multithreadingExample\obj\Debug\net10.0\multithreadingExample.AssemblyInfoInputs.cache
+C:\Users\emeris\source\repos\multithreadingExample\obj\Debug\net10.0\multithreadingExample.AssemblyInfo.cs
+C:\Users\emeris\source\repos\multithreadingExample\obj\Debug\net10.0\multithreadingExample.csproj.CoreCompileInputs.cache
+C:\Users\emeris\source\repos\multithreadingExample\obj\Debug\net10.0\multithreadingExample.dll
+C:\Users\emeris\source\repos\multithreadingExample\obj\Debug\net10.0\refint\multithreadingExample.dll
+C:\Users\emeris\source\repos\multithreadingExample\obj\Debug\net10.0\multithreadingExample.pdb
+C:\Users\emeris\source\repos\multithreadingExample\obj\Debug\net10.0\multithreadingExample.genruntimeconfig.cache
+C:\Users\emeris\source\repos\multithreadingExample\obj\Debug\net10.0\ref\multithreadingExample.dll

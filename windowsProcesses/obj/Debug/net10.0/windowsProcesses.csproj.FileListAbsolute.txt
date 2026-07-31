@@ -1,0 +1,14 @@
+C:\Users\emeris\source\repos\windowsProcesses\bin\Debug\net10.0\windowsProcesses.exe
+C:\Users\emeris\source\repos\windowsProcesses\bin\Debug\net10.0\windowsProcesses.deps.json
+C:\Users\emeris\source\repos\windowsProcesses\bin\Debug\net10.0\windowsProcesses.runtimeconfig.json
+C:\Users\emeris\source\repos\windowsProcesses\bin\Debug\net10.0\windowsProcesses.dll
+C:\Users\emeris\source\repos\windowsProcesses\bin\Debug\net10.0\windowsProcesses.pdb
+C:\Users\emeris\source\repos\windowsProcesses\obj\Debug\net10.0\windowsProcesses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emeris\source\repos\windowsProcesses\obj\Debug\net10.0\windowsProcesses.AssemblyInfoInputs.cache
+C:\Users\emeris\source\repos\windowsProcesses\obj\Debug\net10.0\windowsProcesses.AssemblyInfo.cs
+C:\Users\emeris\source\repos\windowsProcesses\obj\Debug\net10.0\windowsProcesses.csproj.CoreCompileInputs.cache
+C:\Users\emeris\source\repos\windowsProcesses\obj\Debug\net10.0\windowsProcesses.dll
+C:\Users\emeris\source\repos\windowsProcesses\obj\Debug\net10.0\refint\windowsProcesses.dll
+C:\Users\emeris\source\repos\windowsProcesses\obj\Debug\net10.0\windowsProcesses.pdb
+C:\Users\emeris\source\repos\windowsProcesses\obj\Debug\net10.0\windowsProcesses.genruntimeconfig.cache
+C:\Users\emeris\source\repos\windowsProcesses\obj\Debug\net10.0\ref\windowsProcesses.dll
