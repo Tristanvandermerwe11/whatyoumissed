@@ -1,0 +1,149 @@
+--- Car Rental Company Co. Car Report ---
+
+All cars:
+	Car: Black Toyota
+	Mileage: 158936 km
+	Number of doors: 2
+	Date last serviced: 2023/02/26
+	Needs to be serviced: True
+	Car status for bookings: Available
+
+	Car: White Ford
+	Mileage: 89653 km
+	Number of doors: 2
+	Date last serviced: 2023/04/18
+	Needs to be serviced: True
+	Car status for bookings: Available
+
+	Car: Red Suzuki
+	Mileage: 256984 km
+	Number of doors: 4
+	Date last serviced: 2023/08/05
+	Needs to be serviced: True
+	Car status for bookings: OutForService
+
+	Car: Gray Nissan
+	Mileage: 12598 km
+	Number of doors: 4
+	Date last serviced: 2024/11/02
+	Needs to be serviced: True
+	Car status for bookings: Available
+
+	Car: Blue Mahindra
+	Mileage: 3651 km
+	Number of doors: 4
+	Date last serviced: 2024/01/26
+	Needs to be serviced: True
+	Car status for bookings: Booked
+
+	Car: Orange Hyundai
+	Mileage: 157899 km
+	Number of doors: 4
+	Date last serviced: 2025/08/27
+	Needs to be serviced: False
+	Car status for bookings: OutForService
+
+	Car: Yellow BMW
+	Mileage: 98536 km
+	Number of doors: 2
+	Date last serviced: 2026/02/07
+	Needs to be serviced: False
+	Car status for bookings: Available
+
+	Car: Green Nissan
+	Mileage: 125874 km
+	Number of doors: 2
+	Date last serviced: 2026/05/19
+	Needs to be serviced: False
+	Car status for bookings: Booked
+
+Number of available cars for booking: 4
+
+All cars that have 4 doors:
+	Car: Red Suzuki
+	Mileage: 256984 km
+	Number of doors: 4
+	Date last serviced: 2023/08/05
+	Car status for bookings: OutForService
+
+	Car: Gray Nissan
+	Mileage: 12598 km
+	Number of doors: 4
+	Date last serviced: 2024/11/02
+	Car status for bookings: Available
+
+	Car: Blue Mahindra
+	Mileage: 3651 km
+	Number of doors: 4
+	Date last serviced: 2024/01/26
+	Car status for bookings: Booked
+
+	Car: Orange Hyundai
+	Mileage: 157899 km
+	Number of doors: 4
+	Date last serviced: 2025/08/27
+	Car status for bookings: OutForService
+
+All cars sorted by year last serviced: 
+	Car: Black Toyota
+	Mileage: 158936 km
+	Number of doors: 2
+	Date last serviced: 2023/02/26
+	Car status for bookings: Available
+
+	Car: White Ford
+	Mileage: 89653 km
+	Number of doors: 2
+	Date last serviced: 2023/04/18
+	Car status for bookings: Available
+
+	Car: Red Suzuki
+	Mileage: 256984 km
+	Number of doors: 4
+	Date last serviced: 2023/08/05
+	Car status for bookings: OutForService
+
+	Car: Blue Mahindra
+	Mileage: 3651 km
+	Number of doors: 4
+	Date last serviced: 2024/01/26
+	Car status for bookings: Booked
+
+	Car: Gray Nissan
+	Mileage: 12598 km
+	Number of doors: 4
+	Date last serviced: 2024/11/02
+	Car status for bookings: Available
+
+	Car: Orange Hyundai
+	Mileage: 157899 km
+	Number of doors: 4
+	Date last serviced: 2025/08/27
+	Car status for bookings: OutForService
+
+	Car: Yellow BMW
+	Mileage: 98536 km
+	Number of doors: 2
+	Date last serviced: 2026/02/07
+	Car status for bookings: Available
+
+	Car: Green Nissan
+	Mileage: 125874 km
+	Number of doors: 2
+	Date last serviced: 2026/05/19
+	Car status for bookings: Booked
+
+All Nissans: 
+	Car: Gray Nissan
+	Mileage: 12598 km
+	Number of doors: 4
+	Date last serviced: 2024/11/02
+	Car status for bookings: Available
+
+	Car: Green Nissan
+	Mileage: 125874 km
+	Number of doors: 2
+	Date last serviced: 2026/05/19
+	Car status for bookings: Booked
+
+--- End of report ---

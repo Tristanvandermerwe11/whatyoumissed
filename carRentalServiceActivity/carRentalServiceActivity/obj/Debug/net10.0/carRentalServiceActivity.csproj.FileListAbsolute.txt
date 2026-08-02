@@ -1,0 +1,14 @@
+/home/brandon/Downloads/carRentalServiceActivity(1)/carRentalServiceActivity/carRentalServiceActivity/bin/Debug/net10.0/carRentalServiceActivity
+/home/brandon/Downloads/carRentalServiceActivity(1)/carRentalServiceActivity/carRentalServiceActivity/bin/Debug/net10.0/carRentalServiceActivity.deps.json
+/home/brandon/Downloads/carRentalServiceActivity(1)/carRentalServiceActivity/carRentalServiceActivity/bin/Debug/net10.0/carRentalServiceActivity.runtimeconfig.json
+/home/brandon/Downloads/carRentalServiceActivity(1)/carRentalServiceActivity/carRentalServiceActivity/bin/Debug/net10.0/carRentalServiceActivity.dll
+/home/brandon/Downloads/carRentalServiceActivity(1)/carRentalServiceActivity/carRentalServiceActivity/bin/Debug/net10.0/carRentalServiceActivity.pdb
+/home/brandon/Downloads/carRentalServiceActivity(1)/carRentalServiceActivity/carRentalServiceActivity/obj/Debug/net10.0/carRentalServiceActivity.GeneratedMSBuildEditorConfig.editorconfig
+/home/brandon/Downloads/carRentalServiceActivity(1)/carRentalServiceActivity/carRentalServiceActivity/obj/Debug/net10.0/carRentalServiceActivity.AssemblyInfoInputs.cache
+/home/brandon/Downloads/carRentalServiceActivity(1)/carRentalServiceActivity/carRentalServiceActivity/obj/Debug/net10.0/carRentalServiceActivity.AssemblyInfo.cs
+/home/brandon/Downloads/carRentalServiceActivity(1)/carRentalServiceActivity/carRentalServiceActivity/obj/Debug/net10.0/carRentalServiceActivity.csproj.CoreCompileInputs.cache
+/home/brandon/Downloads/carRentalServiceActivity(1)/carRentalServiceActivity/carRentalServiceActivity/obj/Debug/net10.0/carRentalServiceActivity.dll
+/home/brandon/Downloads/carRentalServiceActivity(1)/carRentalServiceActivity/carRentalServiceActivity/obj/Debug/net10.0/refint/carRentalServiceActivity.dll
+/home/brandon/Downloads/carRentalServiceActivity(1)/carRentalServiceActivity/carRentalServiceActivity/obj/Debug/net10.0/carRentalServiceActivity.pdb
+/home/brandon/Downloads/carRentalServiceActivity(1)/carRentalServiceActivity/carRentalServiceActivity/obj/Debug/net10.0/carRentalServiceActivity.genruntimeconfig.cache
+/home/brandon/Downloads/carRentalServiceActivity(1)/carRentalServiceActivity/carRentalServiceActivity/obj/Debug/net10.0/ref/carRentalServiceActivity.dll
