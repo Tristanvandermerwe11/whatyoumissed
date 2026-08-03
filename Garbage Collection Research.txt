@@ -1,0 +1,29 @@
+What is the GC Class?
+
+The GC class in the .NET framework is a system class that is used to control the system garbage collector (Microsoft, n.d.). The system garbage collector is a service which restores unassigned memory (Microsoft, n.d.).
+
+Common GC Methods
+
+GC.Collect()
+
+   This method enforces the instantaneous garbage collection of all current generations (Microsoft, n.d.).
+
+GC.GetTotalMemory()
+
+   This method gets and returns the total heap size of the application, excluding the fragmentation of the heap (Microsoft, n.d.).
+
+GC.MaxGeneration
+
+   This method retrieves the maximum number of generations that the current system has support for (Microsoft, n.d.).
+
+GC.GetGeneration(object obj)
+
+   This method returns the parced object's most recent generation number being used (Microsoft, n.d.).
+
+GC.WaitForPendingFinalizers()
+
+   This method stops the current thread that is being processed and starts processing a new thread that is responsible for the queue of finalizers (Microsoft, n.d.). After the queue has finished and emptied the previous thread will continue (Microsoft, n.d.).
+
+Reference List
+
+Microsoft, n.d. GC Class. [online] Available at: https://learn.microsoft.com/en-us/dotnet/api/system.gc?view=net-10.0 [Accessed 20 June 2026].
