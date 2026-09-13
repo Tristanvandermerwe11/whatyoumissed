@@ -3,7 +3,12 @@
 ## TABLE OF CONTENTS
 - [MEMBERS](#members)
 - [WHAT EACH MEMBER DID](#what-each-member-did)
-![GitHub repo size](https://img.shields.io/github/repo-size/Tristanvandermerwe11/whatyoumissed?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/EMECPE/cldv6212-2026-g2-poe-brandon-badenhorst?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/EMECPE/cldv6212-2026-g2-poe-brandon-badenhorst?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/EMECPE/cldv6212-2026-g2-poe-brandon-badenhorst?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 
