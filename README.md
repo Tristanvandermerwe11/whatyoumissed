@@ -1,4 +1,9 @@
-# CLDV6212_POE
+
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=CLDV6212&fontSize=60&fontColor=white&fontAlignY=35&desc=Cloud%20Development&descAlignY=55&descSize=20&descColor=white)
+
+</div>
 
 ## TABLE OF CONTENTS
 - [MEMBERS](#members)
@@ -146,9 +151,8 @@
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=footer&text=Made%20by%20Group%202&fontSize=20&fontColor=white&fontAlignY=65)
 
 </div>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer)
 
 </div>
