@@ -4,7 +4,7 @@
 - [MEMBERS](#members)
 - [WHAT EACH MEMBER DID](#what-each-member-did)
 
-
+![GitHub repo size](https://img.shields.io/github/repo-size/EMECPE/cldv6212-2026-g2-poe-brandon-badenhorst?style=for-the-badge)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Brandon-Badenhorst/cldv6212-2026-g2-poe-brandon-badenhorst?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/Brandon-Badenhorst/cldv6212-2026-g2-poe-brandon-badenhorst?style=for-the-badge)
