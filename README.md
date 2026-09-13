@@ -4,7 +4,8 @@
 - [MEMBERS](#members)
 - [WHAT EACH MEMBER DID](#what-each-member-did)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/username/repo)
+![GitHub repo size](https://img.shields.io/github/repo-size/Tristanvandermerwe11/whatyoumissed
+)
 
 
 
