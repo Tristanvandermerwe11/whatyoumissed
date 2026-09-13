@@ -3,9 +3,7 @@
 ## TABLE OF CONTENTS
 - [MEMBERS](#members)
 - [WHAT EACH MEMBER DID](#what-each-member-did)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Tristanvandermerwe11/whatyoumissed
-)
+![GitHub repo size](https://img.shields.io/github/repo-size/Tristanvandermerwe11/whatyoumissed?style=for-the-badge)
 
 
 
