@@ -139,3 +139,16 @@
 
 
 
+
+
+
+
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer)
+
+</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer)
+
+</div>
