@@ -11,6 +11,12 @@
 
 
 
+> IF YOU DIDNT DO THE LAST STEP OF - FOR PREPARING THE AZURITE CONTAINER IMAGE
+>```bash
+>  docker pull <dockerhub_username>/azurite:v1.0
+>  ```
+
+
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/EMECPE/cldv6212-2026-g2-poe-brandon-badenhorst?style=for-the-badge)
