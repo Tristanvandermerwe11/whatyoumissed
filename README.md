@@ -41,7 +41,11 @@
 
 
 
-
+| COMMANDS FOR PUBLISHING THE APPLICATION IMAGE TO DOCKER HUB|
+| ------------- |
+| `docker login` |
+| `docker build -t <dockerhub_username>/<lowercase_assignment_name>:v1.0 -f <project_name>/Dockerfile .` |
+| `docker push <dockerhub_username>/<lowercase_assignment_name>:v1.0` |
 
 
 
