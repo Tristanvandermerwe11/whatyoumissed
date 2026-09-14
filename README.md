@@ -26,6 +26,18 @@
 
 
 
+| COMMANDS |
+| ------------- |
+| docker pull brandonbadenhorst/coffeenchill-functions:v1.0 |
+| docker pull brandonbadenhorst/azurite:v1.0 |
+| docker rm -f coffeenchill-functions|
+| docker run -d --name azurite -p 10000:10000 -p 10001:10001 -p 10002:10002 brandonbadenhorst/azurite:v1.0 |
+| docker run -d --name coffeenchill-functions -p 7071:80 -e AzureWebJobsStorage="DefaultEndpointsProtocol=http;AccountName=devstoreaccount1;AccountKey=Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==;BlobEndpoint=http://host.docker.internal:10000/devstoreaccount1;QueueEndpoint=http://host.docker.internal:10001/devstoreaccount1;TableEndpoint=http://host.docker.internal:10002/devstoreaccount1;" -e FUNCTIONS_WORKER_RUNTIME="dotnet-isolated" brandonbadenhorst/coffeenchill-functions:v1.0 |
+
+
+
+
+
 
 
 
